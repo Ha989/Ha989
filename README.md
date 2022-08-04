@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ha989
+- 👋 Hi, I’m Jenny
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning NFT
 - 💞️ I’m looking to collaborate on crypto market
