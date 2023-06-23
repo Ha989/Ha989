@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Jenny
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning NFT
-- 💞️ I’m looking to collaborate on crypto market
+## Hi, I’m Ha Nguyen (Jenny) :wave:
+
+### Former restaurant manager embarking on a transformative journey to become a skilled front-end developer. Leveraging my diverse background in managing operations, I am pursuing a career shift driven by my passion for technology, problem-solving, and continuous learning
+
+#### :sparkles: Personal Stuffs :sparkles:
+- 🤝 Looking for a job opportunity
+- 📖 Actively practicing all of the programming languages I have studied
+- 🌱 Growing English skills and learning new programming languages
 - 📫 How to reach me 
 
 <!---
