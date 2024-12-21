@@ -1,6 +1,6 @@
 ## Hi, I’m Ha Nguyen (Jenny) :wave:
 
-#### Former restaurant manager embarking on a transformative journey to become a skilled full-stack developer. Leveraging my diverse background in managing operations, I am pursuing a career shift driven by my passion for technology, problem-solving, and continuous learning
+#### On a transformative journey to become a skilled full-stack developer. Leveraging my diverse background in managing operations, I am pursuing a career shift driven by my passion for technology, problem-solving, and continuous learning
 
 #### :sparkles: Personal Stuffs :sparkles:
 - 🤝 I'm looking for a job opportunity
